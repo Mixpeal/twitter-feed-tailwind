@@ -26,7 +26,9 @@ export default function EachTweet() {
                             </svg>
                         </button>
                     </div>
-                    <div className="mt-2">Teams that laugh together and trust each other build the best startups.</div>
+                    <div className="mt-2">
+                        Teams that laugh together and trust each other build the best startups. - Andrew Gazdecki (MicroAcquire)
+                    </div>
                     <div className="flex mt-4 space-x-3 lg:space-x-8">
                         <button className="flex space-x-1 lg:space-x-2 items-center">
                             <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
