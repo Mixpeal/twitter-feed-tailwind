@@ -4,7 +4,7 @@ import EachTweet from "../tweets/EachTweet";
 export default function MiddleSide() {
     return (
         <div className="border border-border-main">
-            <div className="flex justify-between py-3 px-4 sticky">
+            <div className="flex justify-between py-3 px-2 lg:px-4 sticky">
                 <h1 className="font-bold text-xl">Home</h1>
                 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <path d="M10.8946 9.35608L13 3.66642L15.1054 9.35608C15.1977 9.60559 15.3944 9.80231 15.6439 9.89464L21.3336 12L15.6439 14.1054C15.3944 14.1977 15.1977 14.3944 15.1054 14.6439L13 20.3336L10.8946 14.6439C10.8023 14.3944 10.6056 14.1977 10.3561 14.1054L4.66642 12L10.3561 9.89464C10.6056 9.80231 10.8023 9.60559 10.8946 9.35608Z" stroke="#0F1419" />
