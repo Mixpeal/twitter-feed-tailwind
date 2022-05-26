@@ -8,10 +8,10 @@ export default function MiddleSide() {
                 <h1 className="font-bold text-xl">Home</h1>
                 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <path d="M10.8946 9.35608L13 3.66642L15.1054 9.35608C15.1977 9.60559 15.3944 9.80231 15.6439 9.89464L21.3336 12L15.6439 14.1054C15.3944 14.1977 15.1977 14.3944 15.1054 14.6439L13 20.3336L10.8946 14.6439C10.8023 14.3944 10.6056 14.1977 10.3561 14.1054L4.66642 12L10.3561 9.89464C10.6056 9.80231 10.8023 9.60559 10.8946 9.35608Z" stroke="#0F1419" />
-                    <path d="M5 3L5 7.99844" stroke="#0F1419" stroke-linecap="round" />
-                    <line x1="7.5" y1="5.37581" x2="2.5" y2="5.37581" stroke="#0F1419" stroke-linecap="round" />
-                    <path d="M7 18L7 21.2" stroke="#0F1419" stroke-linecap="round" />
-                    <line x1="8.5" y1="19.7" x2="5.5" y2="19.7" stroke="#0F1419" stroke-linecap="round" />
+                    <path d="M5 3L5 7.99844" stroke="#0F1419" strokeLinecap="round" />
+                    <line x1="7.5" y1="5.37581" x2="2.5" y2="5.37581" stroke="#0F1419" strokeLinecap="round" />
+                    <path d="M7 18L7 21.2" stroke="#0F1419" strokeLinecap="round" />
+                    <line x1="8.5" y1="19.7" x2="5.5" y2="19.7" stroke="#0F1419" strokeLinecap="round" />
                 </svg>
             </div>
             <div className="flex mt-2 px-4 pb-4">
@@ -43,7 +43,7 @@ export default function MiddleSide() {
                                     <rect x="2.5" y="4.5" width="17" height="5" rx="0.5" stroke="#1D9BF0" />
                                     <rect x="2.5" y="9.5" width="19" height="5" rx="0.5" stroke="#1D9BF0" />
                                     <rect x="2.5" y="14.5" width="14" height="5" rx="0.5" stroke="#1D9BF0" />
-                                    <line x1="2.5" y1="2.5" x2="2.5" y2="21.5" stroke="#1D9BF0" stroke-linecap="round" />
+                                    <line x1="2.5" y1="2.5" x2="2.5" y2="21.5" stroke="#1D9BF0" strokeLinecap="round" />
                                 </svg>
                             </a>
                             <a href="" className="hover:bg-bg-main rounded-full block p-2">
@@ -51,17 +51,17 @@ export default function MiddleSide() {
                                     <circle cx="12" cy="12" r="9.5" stroke="#1D9BF0" />
                                     <circle cx="9" cy="10" r="1" fill="#1D9BF0" />
                                     <circle cx="15" cy="10" r="1" fill="#1D9BF0" />
-                                    <path d="M16 14C15.7824 14.3931 15.4635 14.7502 15.0615 15.0511C14.6594 15.3519 14.1821 15.5906 13.6569 15.7534C13.1316 15.9162 12.5686 16 12 16C11.4314 16 10.8684 15.9162 10.3431 15.7534C9.81786 15.5906 9.34057 15.3519 8.93853 15.0511C8.53649 14.7502 8.21758 14.3931 8 14" stroke="#1D9BF0" stroke-linecap="round" />
+                                    <path d="M16 14C15.7824 14.3931 15.4635 14.7502 15.0615 15.0511C14.6594 15.3519 14.1821 15.5906 13.6569 15.7534C13.1316 15.9162 12.5686 16 12 16C11.4314 16 10.8684 15.9162 10.3431 15.7534C9.81786 15.5906 9.34057 15.3519 8.93853 15.0511C8.53649 14.7502 8.21758 14.3931 8 14" stroke="#1D9BF0" strokeLinecap="round" />
                                 </svg>
                             </a>
                             <a href="" className="hover:bg-bg-main rounded-full block p-2">
                                 <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M4 4H19C19.5523 4 20 4.44772 20 5V11.5278C20.3801 11.868 20.7166 12.2559 21 12.6822V5C21 3.89543 20.1046 3 19 3H4C2.89543 3 2 3.89543 2 5V18C2 19.1046 2.89543 20 4 20H11.5278C11.2534 19.6934 11.01 19.3584 10.8027 19H4C3.44772 19 3 18.5523 3 18V5C3 4.44772 3.44772 4 4 4Z" fill="#1D9BF0" />
+                                    <path fillRule="evenodd" clipRule="evenodd" d="M4 4H19C19.5523 4 20 4.44772 20 5V11.5278C20.3801 11.868 20.7166 12.2559 21 12.6822V5C21 3.89543 20.1046 3 19 3H4C2.89543 3 2 3.89543 2 5V18C2 19.1046 2.89543 20 4 20H11.5278C11.2534 19.6934 11.01 19.3584 10.8027 19H4C3.44772 19 3 18.5523 3 18V5C3 4.44772 3.44772 4 4 4Z" fill="#1D9BF0" />
                                     <circle cx="16" cy="16" r="4.5" stroke="#1D9BF0" />
                                     <line x1="2" y1="7.5" x2="21" y2="7.5" stroke="#1D9BF0" />
-                                    <line x1="7.5" y1="2.5" x2="7.5" y2="4.5" stroke="#1D9BF0" stroke-linecap="round" />
-                                    <line x1="16.5" y1="2.5" x2="16.5" y2="4.5" stroke="#1D9BF0" stroke-linecap="round" />
-                                    <path d="M16 14L16 15.9172C16 15.9702 16.0211 16.0211 16.0586 16.0586L18 18" stroke="#1D9BF0" stroke-linecap="round" />
+                                    <line x1="7.5" y1="2.5" x2="7.5" y2="4.5" stroke="#1D9BF0" strokeLinecap="round" />
+                                    <line x1="16.5" y1="2.5" x2="16.5" y2="4.5" stroke="#1D9BF0" strokeLinecap="round" />
+                                    <path d="M16 14L16 15.9172C16 15.9702 16.0211 16.0211 16.0586 16.0586L18 18" stroke="#1D9BF0" strokeLinecap="round" />
                                 </svg>
                             </a>
                             <a href="" className="hover:bg-bg-main rounded-full block p-2">
