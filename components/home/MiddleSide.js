@@ -14,14 +14,14 @@ export default function MiddleSide() {
                     <line x1="8.5" y1="19.7" x2="5.5" y2="19.7" stroke="#0F1419" strokeLinecap="round" />
                 </svg>
             </div>
-            <div className="flex mt-2 px-4 pb-4">
+            <div className="flex mt-2 px-2 lg:px-4 pb-4">
                 <MainAvatar />
                 <div className="w-full">
                     <div className="text-lg">
                         <textarea name="" className="w-full outline-0" placeholder="What's happening?"></textarea>
                     </div>
                     <div className="flex justify-between items-center mt-5">
-                        <div className="flex space-x-2 items-center w-full">
+                        <div className="flex lg:space-x-2 items-center w-full">
                             <a href="" className="hover:bg-bg-main rounded-full block p-2">
                                 <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                                     <rect x="2.5" y="2.5" width="19" height="19" rx="1.5" stroke="#1D9BF0" />

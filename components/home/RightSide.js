@@ -3,7 +3,7 @@ import SearchBlock from "../partials/SearchBlock";
 
 export default function RightSide() {
     return (
-        <div className="lg:ml-10 mb-10">
+        <div className="mx-2 lg:ml-10 mb-10">
             <SearchBlock />
 
             <div className="bg-bg-main rounded-2xl pt-4 my-4">
