@@ -10,7 +10,7 @@ export default function LeftSide() {
                     </svg>
                 </a>
             </div>
-            <ul className="flex flex-col space-y-4 mt-6">
+            <ul className="flex flex-col space-y-4 mt-2">
                 <EachSidebarMenu name="Home" active="true">
                     <svg width="26" height="26" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M11.6655 2.30103C11.8556 2.1299 12.1443 2.1299 12.3345 2.30103L21.0315 10.1284C21.3721 10.4349 21.1553 11 20.697 11H3.30298C2.84473 11 2.62789 10.4349 2.96849 10.1284L11.6655 2.30103Z" fill="#0F1419" />

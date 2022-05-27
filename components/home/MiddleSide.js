@@ -18,9 +18,9 @@ export default function MiddleSide() {
                 <MainAvatar />
                 <div className="w-full">
                     <div className="text-lg">
-                        <textarea name="" className="w-full outline-0" placeholder="What's happening?"></textarea>
+                        <textarea name="" className="w-full outline-0 placeholder:text-default-medium text-xl" placeholder="What's happening?"></textarea>
                     </div>
-                    <div className="flex justify-between items-center mt-5">
+                    <div className="flex justify-between items-center mt-2">
                         <div className="flex lg:space-x-2 items-center w-full">
                             <a href="" className="hover:bg-bg-main rounded-full block p-2">
                                 <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
